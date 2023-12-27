@@ -1,4 +1,4 @@
-Hi 👋 My name is AFIF SHAQIR IRFAN BIN ARQAM
+Hi ! My name is AFIF SHAQIR IRFAN BIN ARQAM
 ============================================
 
 STUDENT IN UNIVERSITI TEKNOLOGI MALAYSIA
