@@ -4,7 +4,10 @@ Hi 👋 My name is AFIF SHAQIR IRFAN BIN ARQAM
 STUDENT IN UNIVERSITI TEKNOLOGI MALAYSIA
 ----------------------------------------
 
-\>completed foundation in Engineering and Technology in Kolej MARA Kuala Nerang >currently completing my degree in Computer Science (Data Engineering) >passionate in problem solving and coding (currently learning C++ language) >hope to ace my degree to enlighten my future in Computer Science carrier.
+\>completed foundation in Engineering and Technology in Kolej MARA Kuala Nerang 
+\>currently completing my degree in Computer Science (Data Engineering) 
+\>passionate in problem solving and coding (currently learning C++ language)
+\>hope to ace my degree to enlighten my future in Computer Science carrier.
 
 * 🌍  I'm based in SHAH ALAM,MALAYSIA
 * ✉️  You can contact me at [afifshaqir@gmail.com](mailto:afifshaqir@gmail.com)
