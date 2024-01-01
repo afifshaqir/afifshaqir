@@ -5,8 +5,11 @@ STUDENT IN UNIVERSITI TEKNOLOGI MALAYSIA
 ----------------------------------------
 
 \>completed foundation in Engineering and Technology in Kolej MARA Kuala Nerang 
+----------------------------------------
 \passionate in problem solving and coding (currently learning C++ language)
+----------------------------------------
 \>hope to ace my degree to enlighten my future in Computer Science carrier.
+----------------------------------------
 
 * 🌍  I'm based in Shah Alam,Malaysia
 * ✉️  You can contact me at [afifshaqir@gmail.com](mailto:afifshaqir@gmail.com)
