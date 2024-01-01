@@ -11,7 +11,7 @@ STUDENT IN UNIVERSITI TEKNOLOGI MALAYSIA
 * 🌍  I'm based in Shah Alam,Malaysia
 * ✉️  You can contact me at [afifshaqir@gmail.com](mailto:afifshaqir@gmail.com)
 * 🧠  I'm learning Data Enginnering
-* 🤝  I'm open to collaborating on projects in database system or computer science related
+
 
 ### Skills
 
