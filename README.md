@@ -12,8 +12,11 @@ STUDENT IN UNIVERSITI TEKNOLOGI MALAYSIA
 * ✉️  You can contact me at [afifshaqir@gmail.com](mailto:afifshaqir@gmail.com)
 * 🧠  I'm learning Data Enginnering
 
-* PROJECT 
-* PROGRAMMING TECHNIQUE 1 -https://github.com/afifshaqir/PROGRAMMING-TECHNIQUE
+>>>>>>>>>>>>>>>>>>>>>>>>>>PROJECT<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
+* PROGRAMMING TECHNIQUE 1       -https://github.com/afifshaqir/PROGRAMMING-TECHNIQUE
+* TECHNOLOGY INFORMATION SYSTEM -https://github.com/afifshaqir/TECHNOLOGY-INFORMATION-SYSYTEM-
+* DIGITAL LOGIC                 -https://github.com/afifshaqir/DIGITAL-LOGIC-1
+* DISCRETE STRUCTURE            -https://github.com/afifshaqir/DISCRETE-STRUCTURE
 
 
 ### Skills
