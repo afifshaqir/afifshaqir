@@ -10,7 +10,7 @@ hope to ace my degree to enlighten my future in Computer Science carrier.
 
 * 🌍  I'm based in Shah Alam,Malaysia
 * ✉️  You can contact me at [afifshaqir@gmail.com](mailto:afifshaqir@gmail.com)
-* 🧠  I'm learning Data Enginnering
+* 🧠  I'm learning Computer Science (Data Engineering)
 
 PROJECT
 * <b>[PROGRAMMING TECHNIQUE 1](https://github.com/afifshaqir/PROGRAMMING-TECHNIQUE)</b>
