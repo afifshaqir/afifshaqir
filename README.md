@@ -1,7 +1,7 @@
 Hi ! My name is AFIF SHAQIR IRFAN BIN ARQAM
 ============================================
 
-STUDENT IN UNIVERSITI TEKNOLOGI MALAYSIA
+STUDENT IN UNIVERSITI TEKNOLOGI MALAYSIA,SKUDAI
 ----------------------------------------
 passionate in problem solving and coding (currently learning C++ language)
 ----------------------------------------
