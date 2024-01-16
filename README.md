@@ -17,9 +17,9 @@ hope to ace my degree to enlighten my future in Computer Science carrier.
 
 PROJECT
 * <b>[PROGRAMMING TECHNIQUE 1](https://github.com/afifshaqir/PROGRAMMING-TECHNIQUE)</b>
-* <b>[TECHNOLOGY INFORMATION SYSTEM](https://github.com/afifshaqir/TECHNOLOGY-INFORMATION-SYSYTEM)<b>
-* <b>[DIGITAL LOGIC](https://github.com/afifshaqir/DIGITAL-LOGIC-1)<b>
-* <b>[DISCRETE STRUCTURE](https://github.com/afifshaqir/DISCRETE-STRUCTURE)<b>
+* <b>[TECHNOLOGY INFORMATION SYSTEM](https://github.com/afifshaqir/TECHNOLOGY-INFORMATION-SYSYTEM)</b>
+* <b>[DIGITAL LOGIC](https://github.com/afifshaqir/DIGITAL-LOGIC-1)</b>
+* <b>[DISCRETE STRUCTURE](https://github.com/afifshaqir/DISCRETE-STRUCTURE)</b>
 
 
 ### Skills
