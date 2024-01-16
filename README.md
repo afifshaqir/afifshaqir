@@ -5,7 +5,7 @@ STUDENT IN UNIVERSITI TEKNOLOGI MALAYSIA
 ----------------------------------------
 passionate in problem solving and coding (currently learning C++ language)
 ----------------------------------------
-hope to ace my degree to enlighten my future in Computer Science carrier.
+hope to ace my degree to enlighten my future as System Developer
 ----------------------------------------
 
 * 🌍  I'm based in Shah Alam,Malaysia
