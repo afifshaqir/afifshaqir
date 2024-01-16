@@ -16,7 +16,7 @@ hope to ace my degree to enlighten my future in Computer Science carrier.
 * 🧠  I'm learning Data Enginnering
 
 PROJECT
-* PROGRAMMING TECHNIQUE 1       -https://github.com/afifshaqir/PROGRAMMING-TECHNIQUE
+* PROGRAMMING TECHNIQUE 1       -[https://github.com/afifshaqir/PROGRAMMING-TECHNIQUE]
 * TECHNOLOGY INFORMATION SYSTEM -https://github.com/afifshaqir/TECHNOLOGY-INFORMATION-SYSYTEM-
 * DIGITAL LOGIC                 -https://github.com/afifshaqir/DIGITAL-LOGIC-1
 * DISCRETE STRUCTURE            -https://github.com/afifshaqir/DISCRETE-STRUCTURE
