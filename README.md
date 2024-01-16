@@ -3,9 +3,6 @@ Hi ! My name is AFIF SHAQIR IRFAN BIN ARQAM
 
 STUDENT IN UNIVERSITI TEKNOLOGI MALAYSIA
 ----------------------------------------
-
-completed foundation in Engineering and Technology in Kolej MARA Kuala Nerang 
-----------------------------------------
 passionate in problem solving and coding (currently learning C++ language)
 ----------------------------------------
 hope to ace my degree to enlighten my future in Computer Science carrier.
