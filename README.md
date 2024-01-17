@@ -12,8 +12,17 @@ hope to ace my degree to enlighten my future as System Developer
 * ✉️  You can contact me at [afifshaqir@gmail.com](mailto:afifshaqir@gmail.com)
 * 🧠  I'm learning Computer Science (Data Engineering)
 
+EDUCATION
+  SECONDARY LEVEL-SEKOLAH MENENGAH TEKNIK KUALA LUMPUR | ELECTRICAL STREAM (8A 2B+)
+FOUNDATION LEVEL -KOLEJ MARA KUALA NERANG,KEDAH        | ENGINEERING & TECHNOLOGY (CGPA 3.97)
 
-PROJECT SEMESTER 1 
+CERTIFICATE
+1) SPM ( 8A 2B+)
+2) FOUNDATION IN ENGINEERING & TECHNOLOGY (CGPA 3.97)
+3) MUET BAND 4.0
+   
+
+PROJECT YEAR 1 SEMESTER 1 
 * <b>[PROGRAMMING TECHNIQUE 1](https://github.com/afifshaqir/PROGRAMMING-TECHNIQUE)</b>
 * <b>[TECHNOLOGY INFORMATION SYSTEM](https://github.com/afifshaqir/TECHNOLOGY-INFORMATION-SYSYTEM-)</b>
 * <b>[DIGITAL LOGIC](https://github.com/afifshaqir/DIGITAL-LOGIC-1)</b>
