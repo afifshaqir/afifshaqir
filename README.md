@@ -11,6 +11,7 @@ hope to ace my degree to enlighten my future as System Developer
 * 🌍  I'm based in Shah Alam,Malaysia
 * ✉️  You can contact me at [afifshaqir@gmail.com](mailto:afifshaqir@gmail.com)
 * 🧠  I'm learning Computer Science (Data Engineering)
+* ✅  All my projects are available [here](https://afifshaqir.github.io/afifshaqir.github.ios/)
 
 EDUCATION 📚
 ------------------------
