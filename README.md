@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=afifshaqir&label=Profile%20views&color=0e75b6&style=flat" alt="afifshaqir" /> </p>
+
 Hi ! My name is AFIF SHAQIR IRFAN BIN ARQAM
 ============================================
 
