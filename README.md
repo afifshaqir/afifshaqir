@@ -6,7 +6,7 @@
 
 <p align="center">
   <b>Computer Science (Data Engineering) Student @ Universiti Teknologi Malaysia</b><br/>
-     Semester II 2025/2026
+  Exchange Student | Special Topics in Data Engineering (SECP3843) | Semester II 2025/2026
 </p>
 
 <p align="center">
@@ -56,6 +56,8 @@ I'm **Afif Shaqir Irfan bin Arqam**, a Bachelor of Computer Science (Data Engine
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" />
 </p>
 
 ---
@@ -79,34 +81,6 @@ I'm **Afif Shaqir Irfan bin Arqam**, a Bachelor of Computer Science (Data Engine
 
 ---
 
-## 🌟 SECP3843 — Special Topics in Data Engineering (Semester II 2025/2026)
-
-> 📁 **Full E-Portfolio Repository:** [SECP3843-Special-Topic](https://github.com/afifshaqir/SECP3843-Special-Topic)
-
-### 📌 Assignments
-
-| No. | Assignment | Description | Link |
-|-----|-----------|-------------|------|
-| 1 | **Academic Writing** | Formal academic writing on a data engineering topic | [View →](https://github.com/afifshaqir/SECP3843-Special-Topic/tree/main/Assignment1) |
-| 2 | **Tutorial: Microsoft Azure** | Hands-on Azure cloud services tutorial | [View →](https://github.com/afifshaqir/SECP3843-Special-Topic/tree/main/Assignment2) |
-| 3 | **Tutorial: Apache Spark** | Big data processing with Apache Spark | [View →](https://github.com/afifshaqir/SECP3843-Special-Topic/tree/main/Assignment3) |
-| 4 | **Tutorial: Artificial Intelligence** | AI application and implementation tutorial | [View →](https://github.com/afifshaqir/SECP3843-Special-Topic/tree/main/Assignment4) |
-
-### 🏭 Industry Engagement
-
-| Activity | Description | Link |
-|----------|-------------|------|
-| 🏗️ **Industry Visit** | Site visit report and reflections | [View →](https://github.com/afifshaqir/SECP3843-Special-Topic/tree/main/IndustryVisit) |
-| 🎤 **Industry Talk** | Summary and takeaways from industry talk | [View →](https://github.com/afifshaqir/SECP3843-Special-Topic/tree/main/IndustryTalk) |
-
-### 🚀 Projects
-
-| Project | Description | Link |
-|---------|-------------|------|
-| 🏭 **Project Industry (PPG)** | Industry-based group project | [View →](https://github.com/afifshaqir/SECP3843-Special-Topic/tree/main/ProjectIndustry) |
-| 👤 **Project Individual** | Alternative assessment individual project | [View →](https://github.com/afifshaqir/SECP3843-Special-Topic/tree/main/ProjectIndividual) |
-
----
 
 ## 🛠️ Subject & Courses
 
@@ -133,6 +107,7 @@ I'm **Afif Shaqir Irfan bin Arqam**, a Bachelor of Computer Science (Data Engine
 * 🔗 High Performance Data Processing — [click here to see project & assignment](#)
 * 🔗 Database Programming — [click here to see project & assignment](#)
 * 🔗 Business Intelligence — [click here to see project & assignment](#)
+* 🔗 Machine Learning — [click here to see project & assignment](#)
 * 🔗 Special Topic in Data Engineering (SECP3843) — [click here to see project & assignment](https://github.com/afifshaqir/SECP3843-Special-Topic)
 
 ---
