@@ -6,7 +6,7 @@
 
 <p align="center">
   <b>Computer Science (Data Engineering) Student @ Universiti Teknologi Malaysia</b><br/>
-  Exchange Student | Special Topics in Data Engineering (SECP3843) | Semester II 2025/2026
+     Semester II 2025/2026
 </p>
 
 <p align="center">
