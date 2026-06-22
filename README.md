@@ -133,7 +133,6 @@ I'm **Afif Shaqir Irfan bin Arqam**, a Bachelor of Computer Science (Data Engine
 * 🔗 High Performance Data Processing — [click here to see project & assignment](#)
 * 🔗 Database Programming — [click here to see project & assignment](#)
 * 🔗 Business Intelligence — [click here to see project & assignment](#)
-* 🔗 Machine Learning — [click here to see project & assignment](#)
 * 🔗 Special Topic in Data Engineering (SECP3843) — [click here to see project & assignment](https://github.com/afifshaqir/SECP3843-Special-Topic)
 
 ---
