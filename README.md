@@ -50,11 +50,16 @@ I'm **Afif Shaqir Irfan bin Arqam**, a Bachelor of Computer Science (Data Engine
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Alteryx-0078C0?style=for-the-badge&logo=alteryx&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
   <img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" />
 </p>
@@ -63,56 +68,29 @@ I'm **Afif Shaqir Irfan bin Arqam**, a Bachelor of Computer Science (Data Engine
 
 ## 📋 Certificates & Achievements
 
-| Certificate | Details |
-|-------------|---------|
-| 📜 SPM | 8A 2B+ — Sekolah Menengah Teknik Kuala Lumpur |
-| 📜 Foundation in Engineering & Technology | CGPA 3.97 — Kolej MARA Kuala Nerang |
-| 📜 MUET | Band 4.0 |
+<p align="left">
+  <img src="https://img.shields.io/badge/Microsoft_Certified-Azure_Data_Fundamentals_(DP--900)-0089D0?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Alteryx-Designer_Core_Certified-0078C0?style=for-the-badge&logo=alteryx&logoColor=white" />
+</p>
+
+| Certificate | Issuer | Date |
+|-------------|--------|------|
+| ☁️ Microsoft Certified: Azure Data Fundamentals (DP-900) | Microsoft | Feb 2026 |
+| 🔧 Alteryx Designer Core Level Certificate | Alteryx | June 2026 |
+| 📜 SPM | Sekolah Menengah Teknik Kuala Lumpur | 8A 2B+ |
+| 📜 Foundation in Engineering & Technology | Kolej MARA Kuala Nerang | CGPA 3.97 |
+| 📜 MUET | Malaysian University English Test | Band 4.0 |
 
 ---
 
 ## 🏆 Leadership & Awards
 
-- 🎖️ **School Prefect** — SMK Kota Kemuning
-- 🎖️ **Majlis Perwakilan Pelajar (MPP)** — SMT Kuala Lumpur
-- 🎖️ **Secretary** — Angkatan Mahasiswa Anti-Rasuah (AMAR)
-- 🎖️ **Jawatankuasa Kolej Mahasiswa** — Kolej Tun Dr. Ismail, UTM (2024/2025 & 2025/2026)
+- 🎖️ **Treasurer** — Jawatankuasa Kolej Pelajar, Kolej Tun Dr. Ismail, UTM (2024/2025)
+- 🎖️ **Vice President (Management)** — Jawatankuasa Kolej Pelajar, Kolej Tun Dr. Ismail, UTM (2025/2026)
+- 🎖️ **Program Director** — Kenyalang Journey Awaits (KEJORA '25), International Level
+- 🎖️ **Speaker & Multimedia Committee** — KTDI On Air (KOA '25), RTM Angkasapuri, Kuala Lumpur
+- 🎖️ **Activities Committee** — Pontianak Odyssey Voyage (POV'26), International Summer School, Indonesia
 
----
-
-
-## 🛠️ Subject & Courses
-
-### 📅 Year 1
-
-* 🔗 Programming Technique I — [click here to see project & assignment](https://github.com/afifshaqir/E-Portfolio/tree/main/YEAR%201/SEM%201/Programming-Technique-1)
-* 🔗 Technology Information System — [click here to see project & assignment](https://github.com/afifshaqir/E-Portfolio/tree/main/YEAR%201/SEM%201/Technology-Information-System)
-* 🔗 Digital Logic — [click here to see project & assignment](https://github.com/afifshaqir/E-Portfolio/tree/main/YEAR%201/SEM%201/Digital-Logic)
-* 🔗 Discrete Structure — [click here to see project & assignment](https://github.com/afifshaqir/E-Portfolio/tree/main/YEAR%201/SEM%201/Discrete-Structure)
-* 🔗 Probability & Statistical Data Analysis — [click here to see project & assignment](https://github.com/afifshaqir/E-Portfolio/tree/main/YEAR%201/SEM%202/Probability-Statistical-Data-Analysis)
-* 🔗 Human Computer Interaction — [click here to see project & assignment](https://github.com/afifshaqir/E-Portfolio/tree/main/YEAR%201/SEM%202/Human-Computer-Interaction)
-
-### 📅 Year 2
-
-* 🔗 Data Structures & Algorithm — [click here to see project & assignment](https://github.com/afifshaqir/E-Portfolio/tree/main/YEAR%202/SEM%201/Data-Structures-Algorithm)
-* 🔗 Database (WBL) — [click here to see project & assignment](https://github.com/afifshaqir/E-Portfolio/tree/main/YEAR%202/SEM%201/Database%20(WBL))
-* 🔗 Network Communication — [click here to see project & assignment](https://github.com/afifshaqir/E-Portfolio/tree/main/YEAR%202/SEM%201/Network-Communication)
-* 🔗 Software Engineering (WBL) — [click here to see project & assignment](https://github.com/afifshaqir/E-Portfolio/tree/main/YEAR%202/SEM%201/Software%20Engineering%20(WBL))
-* 🔗 System Development (WBL) — [click here to see project & assignment](https://github.com/afifshaqir/E-Portfolio/tree/main/YEAR%202/SEM%201/System%20Development%20(WBL))
-* 🔗 Data Analytic Programming — [click here to see project & assignment](https://github.com/afifshaqir/E-Portfolio/tree/main/YEAR%202/SEM%202/Data%20Analytic%20Programming)
-* 🔗 Data Mining — [click here to see project & assignment](https://github.com/afifshaqir/E-Portfolio/tree/main/YEAR%202/SEM%202/Data%20Mining)
-* 🔗 Object Oriented Programming — [click here to see project & assignment](https://github.com/afifshaqir/E-Portfolio/tree/main/YEAR%202/SEM%202/Object%20Oriented%20Programming)
-* 🔗 Operating Systems — [click here to see project & assignment](https://github.com/afifshaqir/E-Portfolio/tree/main/YEAR%202/SEM%202/Operating-Systems)
-
-### 📅 Year 3
-
-* 🔗 Artificial Intelligence — [click here to see project & assignment](https://github.com/afifshaqir/E-Portfolio/tree/main/YEAR%203/SEM%201/Artificial-Intelligence)
-* 🔗 Database Programming — [click here to see project & assignment](https://github.com/afifshaqir/E-Portfolio/tree/main/YEAR%203/SEM%201/Database%20Programming)
-* 🔗 Enterprise Systems Design and Modelling (WBL) — [click here to see project & assignment](https://github.com/afifshaqir/E-Portfolio/tree/main/YEAR%203/SEM%201/Enterprise%20Systems%20Design%20and%20Modelling%20(WBL))
-* 🔗 Application Development — [click here to see project & assignment](https://github.com/afifshaqir/E-Portfolio/tree/main/YEAR%203/SEM%202/Application%20Development)
-* 🔗 Business Intelligence — [click here to see project & assignment](https://github.com/afifshaqir/E-Portfolio/tree/main/YEAR%203/SEM%202/Business%20Intelligence)
-* 🔗 High Performance Data Processing — [click here to see project & assignment](https://github.com/afifshaqir/E-Portfolio/tree/main/YEAR%203/SEM%202/High%20Performance%20Data%20Processing)
-* 🔗 Special Topic in Data Engineering (SECP3843) — [click here to see project & assignment](https://github.com/afifshaqir/SECP3843-Special-Topic)
 
 ---
 
