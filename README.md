@@ -54,7 +54,6 @@ I'm **Afif Shaqir Irfan bin Arqam**, a Bachelor of Computer Science (Data Engine
   <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
   <img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" />
@@ -86,28 +85,33 @@ I'm **Afif Shaqir Irfan bin Arqam**, a Bachelor of Computer Science (Data Engine
 
 ### 📅 Year 1
 
-* 🔗 Programming Technique I — [click here to see project & assignment](https://github.com/afifshaqir/PROGRAMMING-TECHNIQUE)
-* 🔗 Technology Information System — [click here to see project & assignment](https://github.com/afifshaqir/TECHNOLOGY-INFORMATION-SYSYTEM-)
-* 🔗 Digital Logic — [click here to see project & assignment](https://github.com/afifshaqir/DIGITAL-LOGIC-1)
-* 🔗 Discrete Structure — [click here to see project & assignment](https://github.com/afifshaqir/DISCRETE-STRUCTURE)
-* 🔗 Programming Technique II — [click here to see project & assignment](https://github.com/afifshaqir/PROGRAMMING-TECHNIQUE)
+* 🔗 Programming Technique I — [click here to see project & assignment](https://github.com/afifshaqir/E-Portfolio/tree/main/YEAR%201/SEM%201/Programming-Technique-1)
+* 🔗 Technology Information System — [click here to see project & assignment](https://github.com/afifshaqir/E-Portfolio/tree/main/YEAR%201/SEM%201/Technology-Information-System)
+* 🔗 Digital Logic — [click here to see project & assignment](https://github.com/afifshaqir/E-Portfolio/tree/main/YEAR%201/SEM%201/Digital-Logic)
+* 🔗 Discrete Structure — [click here to see project & assignment](https://github.com/afifshaqir/E-Portfolio/tree/main/YEAR%201/SEM%201/Discrete-Structure)
+* 🔗 Probability & Statistical Data Analysis — [click here to see project & assignment](https://github.com/afifshaqir/E-Portfolio/tree/main/YEAR%201/SEM%202/Probability-Statistical-Data-Analysis)
+* 🔗 Human Computer Interaction — [click here to see project & assignment](https://github.com/afifshaqir/E-Portfolio/tree/main/YEAR%201/SEM%202/Human-Computer-Interaction)
 
 ### 📅 Year 2
 
-* 🔗 Data Structures & Algorithm — [click here to see project & assignment](#)
-* 🔗 Object Oriented Programming — [click here to see project & assignment](#)
-* 🔗 Database Management — [click here to see project & assignment](#)
-* 🔗 Network Communication — [click here to see project & assignment](#)
-* 🔗 Operating Systems — [click here to see project & assignment](#)
-* 🔗 Software Engineering — [click here to see project & assignment](#)
+* 🔗 Data Structures & Algorithm — [click here to see project & assignment](https://github.com/afifshaqir/E-Portfolio/tree/main/YEAR%202/SEM%201/Data-Structures-Algorithm)
+* 🔗 Database (WBL) — [click here to see project & assignment](https://github.com/afifshaqir/E-Portfolio/tree/main/YEAR%202/SEM%201/Database%20(WBL))
+* 🔗 Network Communication — [click here to see project & assignment](https://github.com/afifshaqir/E-Portfolio/tree/main/YEAR%202/SEM%201/Network-Communication)
+* 🔗 Software Engineering (WBL) — [click here to see project & assignment](https://github.com/afifshaqir/E-Portfolio/tree/main/YEAR%202/SEM%201/Software%20Engineering%20(WBL))
+* 🔗 System Development (WBL) — [click here to see project & assignment](https://github.com/afifshaqir/E-Portfolio/tree/main/YEAR%202/SEM%201/System%20Development%20(WBL))
+* 🔗 Data Analytic Programming — [click here to see project & assignment](https://github.com/afifshaqir/E-Portfolio/tree/main/YEAR%202/SEM%202/Data%20Analytic%20Programming)
+* 🔗 Data Mining — [click here to see project & assignment](https://github.com/afifshaqir/E-Portfolio/tree/main/YEAR%202/SEM%202/Data%20Mining)
+* 🔗 Object Oriented Programming — [click here to see project & assignment](https://github.com/afifshaqir/E-Portfolio/tree/main/YEAR%202/SEM%202/Object%20Oriented%20Programming)
+* 🔗 Operating Systems — [click here to see project & assignment](https://github.com/afifshaqir/E-Portfolio/tree/main/YEAR%202/SEM%202/Operating-Systems)
 
 ### 📅 Year 3
 
-* 🔗 Artificial Intelligence — [click here to see project & assignment](#)
-* 🔗 High Performance Data Processing — [click here to see project & assignment](#)
-* 🔗 Database Programming — [click here to see project & assignment](#)
-* 🔗 Business Intelligence — [click here to see project & assignment](#)
-* 🔗 Machine Learning — [click here to see project & assignment](#)
+* 🔗 Artificial Intelligence — [click here to see project & assignment](https://github.com/afifshaqir/E-Portfolio/tree/main/YEAR%203/SEM%201/Artificial-Intelligence)
+* 🔗 Database Programming — [click here to see project & assignment](https://github.com/afifshaqir/E-Portfolio/tree/main/YEAR%203/SEM%201/Database%20Programming)
+* 🔗 Enterprise Systems Design and Modelling (WBL) — [click here to see project & assignment](https://github.com/afifshaqir/E-Portfolio/tree/main/YEAR%203/SEM%201/Enterprise%20Systems%20Design%20and%20Modelling%20(WBL))
+* 🔗 Application Development — [click here to see project & assignment](https://github.com/afifshaqir/E-Portfolio/tree/main/YEAR%203/SEM%202/Application%20Development)
+* 🔗 Business Intelligence — [click here to see project & assignment](https://github.com/afifshaqir/E-Portfolio/tree/main/YEAR%203/SEM%202/Business%20Intelligence)
+* 🔗 High Performance Data Processing — [click here to see project & assignment](https://github.com/afifshaqir/E-Portfolio/tree/main/YEAR%203/SEM%202/High%20Performance%20Data%20Processing)
 * 🔗 Special Topic in Data Engineering (SECP3843) — [click here to see project & assignment](https://github.com/afifshaqir/SECP3843-Special-Topic)
 
 ---
